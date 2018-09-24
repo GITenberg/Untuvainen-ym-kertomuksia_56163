@@ -1,5 +1,8 @@
 _repo: Untuvainen-ym-kertomuksia_56163
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56163#Untuvainen-ym-kertomuksia
 gutenberg_issued: '2017-12-11'
 gutenberg_type: Text
 identifiers:
